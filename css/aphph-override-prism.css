@@ -1,0 +1,9 @@
+pre[class*="language-"] {
+padding: 0;
+margin: .5em auto;
+overflow: auto;
+}
+
+code[class*="language-"], pre[class*="language-"] {
+    font-size: 14px;
+}
